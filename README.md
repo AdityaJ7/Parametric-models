@@ -24,3 +24,4 @@
 ### The image contains the implementation of different parametric models to see the churn probability on the basis if the user has a partner or not.
 
 ![image](https://github.com/AdityaJ7/Parametric-models/blob/master/Images/Churn_by_Partner.jpeg)
+
