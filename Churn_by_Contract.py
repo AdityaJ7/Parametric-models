@@ -97,5 +97,5 @@ plt.suptitle(
 
 fig.text(0.5, 0.04, 'Timeline', ha='center')
 fig.text(0.04, 0.5, 'Probability', va='center', rotation='vertical')
-plt.savefig('Images/LogNormal.jpeg')
+plt.savefig('Images/Churn_by_Contract.jpeg')
 plt.show()
