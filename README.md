@@ -12,3 +12,10 @@
 
 # Churn By Subscribed
 ## The image contains the implementation of different parametric models to see the churn probability on the basis of the subsciption of the user with Streaming Tv.
+
+![image](https://github.com/AdityaJ7/Parametric-models/blob/master/Images/Churn_by_Subscibed.jpeg)
+
+# Churn By Subscribed
+## The image contains the implementation of different parametric models to see the churn probability on the basis of the user gender.
+
+![image](https://github.com/AdityaJ7/Parametric-models/blob/master/Images/Churn_by_Gender.jpeg)
