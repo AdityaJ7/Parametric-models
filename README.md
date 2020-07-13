@@ -6,6 +6,6 @@
 #### Here the time is the tenure(in months) for which the customer stayed in the company and the event is whether they churned or not
 
 # Churn By Contract
-#The image contains the implementation of different parametric models to see the churn probability on the basis of User contract with the company
+# The image contains the implementation of different parametric models to see the churn probability on the basis of User contract with the company
 
 ![image](https://github.com/AdityaJ7/Parametric-models/blob/master/Images/LogNormal.jpeg)
